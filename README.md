@@ -1,5 +1,5 @@
 ## ADASYN
-= http://sci2s.ugr.es/keel/pdf/algorithm/congreso/2008-He-ieee.pdf
+= http://sci2s.ugr.es/keel/pdf/algorithm/congreso/2008-He-ieee.pdf  
 = Extended(?) version of SMOTE
 
 ``` python3
